@@ -27,7 +27,7 @@ Este é um projeto de e-commerce desenvolvido durante o Intensivão de Javascrip
 
 <h2>Acesso</h2>
 
-https://lucasmponte.github.io/hashtagMozarine/
+https://lucasmponte.github.io/hashtagMagazine/
 
 <h2>Contato</h2>
 
